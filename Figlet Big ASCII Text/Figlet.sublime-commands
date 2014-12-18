@@ -1,0 +1,4 @@
+[
+    { "caption": "Figlet: Add Text", "command": "figlet_text" },
+    { "caption": "Figlet: Select Font", "command": "figlet_select_font" }
+]

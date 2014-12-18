@@ -1,0 +1,51 @@
+{
+	"color_scheme": "Packages/User/Color Scheme - Default/TwilightCustom.tmTheme",
+	"draw_white_space": "all",
+	"figlet_font": "slant",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".target",
+		"compiled",
+		"deprecated-store",
+		".tmp",
+		".dist"
+	],
+	"font_face": "Source Code Pro Light",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"word_separators": "./\\()\"':,.;<>~!%^&*+=[]{}`?'",
+	"word_wrap": false
+}

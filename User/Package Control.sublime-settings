@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AngularZen",
+		"BracketHighlighter",
+		"Dust.js",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Ensime",
+		"Figlet Big ASCII Text",
+		"Git",
+		"Github Tools",
+		"LESS",
+		"nginx",
+		"Play 2.0",
+		"Pretty JSON",
+		"Theme - Phoenix"
+	]
+}
